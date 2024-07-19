@@ -1,0 +1,21 @@
+.home{
+    background-color:pink;
+    color: black;
+    margin:20px;
+    padding:10px;
+    border-radius: 10px;
+}
+.button{
+    background-color:plum;
+    padding: 10px;
+}
+.form{
+    background-color:pink;
+    color: darkmagenta;
+    padding:20px;
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+    border-radius: 10px;
+    margin: 20px;
+}

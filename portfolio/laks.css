@@ -1,0 +1,38 @@
+.till_c{
+    background-color:pink;
+    color: black;
+    margin:20px;
+    padding:10px;
+}
+.button{
+       background-color:plum;
+       padding: 10px;
+}
+.aboutme{
+    margin:20px;
+    font-weight: bold;
+}
+.My_intrest{
+    background-color:pink;
+    color: darkmagenta;
+    padding:20px;
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+.myprojects{
+    background-color:pink;
+    color: darkmagenta;
+    padding:20px;
+    display: inline-block;
+    vertical-align: top;
+    height: 200px;
+    border-radius: 10px;
+    margin:20px;
+   
+}
+
+
